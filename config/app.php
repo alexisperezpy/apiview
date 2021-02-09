@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://apiview.herokuapp.com'),
+    'url' => env('APP_URL', 'https://apiview.herokuapp.com'),
 
     'asset_url' => env('ASSET_URL', null),
 
